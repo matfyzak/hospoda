@@ -2,6 +2,7 @@ html {
     font-family: verdana;
     --vyfukbarva: #FF4800;
 }
+
 img {
     width: 500px;
 }
@@ -10,14 +11,11 @@ header {
     background-color: var(--vyfukbarva);
     border-radius: 25px;
     padding: 8px;
-}
-.subheading {
+    color:white;
     text-align: center;
 }
 
 h1 {
-    color: white;
-    text-align: center;
     font-size: 50px;
 }
 
@@ -31,4 +29,32 @@ footer {
 section {
   padding-left: 10%;
   padding-right: 10%;
+}
+
+footer {
+    color: white;
+}
+
+nav{
+    text-align: center;
+}
+
+.navitem {
+    padding: 8px;
+}
+
+.logo {
+    max-width: 200px;
+    color: white;
+}
+
+figure{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    color: white;
+}
+
+header a {
+    text-decoration: none;
 }
