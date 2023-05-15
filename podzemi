@@ -21,11 +21,11 @@
     <h1>U Výfuku</h1>
     <p class="subheading">Vítejte na stránkách hospody U Výfuku! Stránka je momentálně ve výstavbě. </p>
     <nav>
-      <a class ="navitem" href="http://www.wasserburger.cz/" >Úvodní stránka</a>
-      <a class ="navitem" href="krygl_historie">Historie držitelů zlatého krýglu</a>
-      <a class ="navitem" href="rumlistek">Rumový lístek</a>
-      <a class ="navitem" href="morseovka">Morseovka</a>
-    </nav>
+        <a class ="navitem" href="https://www.uvyfuku.cz/">Úvodní stránka</a>     
+        <a class ="navitem" href="krygl_historie.html">Historie držitelů zlatého krýglu</a>    
+        <a class ="navitem" href="rumlistek.html">Rumový lístek</a>    
+        <a class ="navitem" href="morseovka.html">Morseovka</a> 
+    </nav>    
     <figure>
         <!--<img class ="logo" src="logo.png">-->
     </figure>
